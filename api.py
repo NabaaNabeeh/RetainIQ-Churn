@@ -1,8 +1,7 @@
 """
-RetainIQ — Customer Churn Prediction API (Phase 3)
+RetainIQ — Customer Churn Prediction API
 
 A complete FastAPI serving pipeline with:
-  • Mock model (swap-ready for real model)
   • Single + Batch prediction endpoints
   • Pydantic validation
   • MLflow experiment tracking
