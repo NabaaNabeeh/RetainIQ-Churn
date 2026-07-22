@@ -9,9 +9,13 @@ Run:
     python monitor.py
 """
 
+import sys
 import json
 import pandas as pd
 from pathlib import Path
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
 
 LOG_FILE = Path("logs/predictions.log")
 
@@ -37,8 +41,8 @@ def check_drift():
         print("❌ No churn probabilities or timestamps to analyze in the logs.")
         return
 
-    # Convert timestamps to datetime objects
-    df["timestamp"] = pd.to_datetime(df["timestamp"])
+    # Convert timestamps to datetime objects (UTC)
+    df["timestamp"] = pd.to_datetime(df["timestamp"], utc=True)
     
     # Sort chronologically
     df = df.sort_values(by="timestamp")
@@ -53,7 +57,7 @@ def check_drift():
 
     import datetime
     # Time-based Drift Comparison: Recent (Last 7 Days) vs Older
-    now = pd.Timestamp.utcnow()
+    now = pd.Timestamp.now(tz="UTC")
     recent_threshold = now - datetime.timedelta(days=7)
     
     recent_df = df[df["timestamp"] >= recent_threshold]
