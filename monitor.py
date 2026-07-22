@@ -51,9 +51,10 @@ def check_drift():
     print(f"High-Risk Customers Flagged: {high_risk_count}")
     print(f"Overall Average Churn Probability: {avg_prob:.4f}\n")
 
+    import datetime
     # Time-based Drift Comparison: Recent (Last 7 Days) vs Older
     now = pd.Timestamp.utcnow()
-    recent_threshold = now - pd.Timedelta(days=7)
+    recent_threshold = now - datetime.timedelta(days=7)
     
     recent_df = df[df["timestamp"] >= recent_threshold]
     older_df = df[df["timestamp"] < recent_threshold]
