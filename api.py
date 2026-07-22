@@ -456,12 +456,14 @@ def batch_predict(req: BatchRequest):
     returned = predictions[:top_n]
     latency = (time.perf_counter() - start) * 1000
 
-    # Log
-    log_prediction({
-        "timestamp": now.isoformat(), "request_id": rid, "event": "batch",
-        "total": len(req.customers), "returned": len(returned),
-        "latency_ms": round(latency, 2), "model_version": info["version"],
-    })
+    # Log each prediction in the batch
+    for p in returned:
+        log_prediction({
+            "timestamp": now.isoformat(), "request_id": rid, "event": "batch",
+            "customerID": p.customer_id, "prediction": p.prediction,
+            "churn_probability": p.churn_probability,
+            "latency_ms": round(latency, 2), "model_version": info["version"],
+        })
 
     # Track
     avg_prob = sum(p.churn_probability for p in predictions) / len(predictions)
