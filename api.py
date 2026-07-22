@@ -402,7 +402,7 @@ def predict(customer: CustomerData):
     log.info("predict | %s | prob=%.4f | %.1fms", cid, result["churn_probability"], latency)
 
     return PredictionOut(
-        customerID=cid, **result,
+        customer_id=cid, **result,
         model_version=info["version"], timestamp=now, request_id=rid,
     )
 
