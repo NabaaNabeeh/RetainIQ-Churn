@@ -1,0 +1,170 @@
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+predict | 1 | prob=0.5544 | 39.4ms
+predict | 8 | prob=0.5544 | 20.0ms
+predict | 8 | prob=0.5544 | 20.8ms
+predict | 8 | prob=0.5540 | 21.1ms
+predict | 8 | prob=0.5830 | 23.5ms
+predict | 8 | prob=0.5442 | 40.6ms
+predict | 8 | prob=0.3971 | 37.1ms
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+predict | 12 | prob=0.3804 | 76.8ms
+predict | 12 | prob=0.7219 | 35.1ms
+predict | 11 | prob=0.7219 | 40.4ms
+predict | 18 | prob=0.5946 | 40.8ms
+predict | 19 | prob=0.5946 | 48.0ms
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+predict | 20 | prob=0.7007 | 80.0ms
+predict | 20 | prob=0.7007 | 36.1ms
+predict | 20 | prob=0.4460 | 46.4ms
+predict | 11 | prob=0.7219 | 47.0ms
+predict | 11 | prob=0.7219 | 46.6ms
+predict | 11 | prob=0.6595 | 47.2ms
+predict | 11 | prob=0.6595 | 57.4ms
+predict | 11 | prob=0.6595 | 36.2ms
+predict | 11 | prob=0.6443 | 33.8ms
+predict | 11 | prob=0.6443 | 37.6ms
+predict | 11 | prob=0.5109 | 46.8ms
+predict | 11 | prob=0.5109 | 46.6ms
+predict | 11 | prob=0.5109 | 38.3ms
+predict | 11 | prob=0.5345 | 42.4ms
+predict | 11 | prob=0.5345 | 39.1ms
+predict | 100 | prob=0.4583 | 45.4ms
+predict | 100 | prob=0.4583 | 41.6ms
+predict | 100 | prob=0.4501 | 37.1ms
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+predict | 1 | prob=0.6582 | 62.9ms
+predict | 1 | prob=0.4619 | 45.9ms
+predict | 2 | prob=0.5512 | 45.9ms
+predict | 2 | prob=0.5224 | 38.8ms
+predict | 3 | prob=0.3674 | 43.0ms
+predict | 3 | prob=0.3762 | 35.4ms
+predict | 3 | prob=0.4173 | 50.9ms
+predict | 3 | prob=0.4173 | 45.4ms
+predict | 3 | prob=0.4173 | 50.2ms
+predict | 3 | prob=0.4173 | 46.8ms
+predict | 5 | prob=0.4162 | 39.7ms
+predict | 5 | prob=0.4141 | 41.9ms
+predict | 3 | prob=0.4152 | 47.9ms
+predict | 3 | prob=0.4152 | 37.1ms
+predict | 3 | prob=0.4149 | 43.0ms
+predict | 3 | prob=0.3948 | 36.8ms
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+predict | 3 | prob=0.3948 | 67.8ms
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+predict | 3 | prob=0.3924 | 65.6ms
+predict | 3 | prob=0.3823 | 49.0ms
+predict | 3 | prob=0.3924 | 48.6ms
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+predict | 3 | prob=0.3963 | 61.0ms
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+predict | 6 | prob=0.4914 | 94.2ms
+predict | 5 | prob=0.4154 | 120.1ms
+predict | 2 | prob=0.5174 | 39.0ms
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+predict | 2 | prob=0.5295 | 107.9ms
+predict | 2 | prob=0.5754 | 70.3ms
+predict | 4 | prob=0.4007 | 61.8ms
+predict | 4 | prob=0.4007 | 67.3ms
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+predict | 7 | prob=0.4360 | 61.1ms
+predict | 8 | prob=0.5525 | 16.1ms
+predict | 1 | prob=0.4101 | 45.0ms
+predict | 10 | prob=0.4428 | 39.8ms
+predict | 9 | prob=0.5659 | 27.2ms
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+batch | total=500 | returned=500 | 18932.7ms
+batch | total=500 | returned=500 | 19641.3ms
+batch | total=500 | returned=500 | 19541.6ms
+batch | total=500 | returned=500 | 18095.7ms
+batch | total=500 | returned=500 | 19197.8ms
+batch | total=500 | returned=500 | 19951.4ms
+batch | total=500 | returned=500 | 17966.5ms
+batch | total=500 | returned=500 | 17761.6ms
+batch | total=500 | returned=500 | 5814.5ms
+batch | total=500 | returned=500 | 6490.9ms
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+batch | total=500 | returned=500 | 5674.4ms
+batch | total=500 | returned=500 | 6426.9ms
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+batch | total=500 | returned=500 | 36.2ms
+batch | total=500 | returned=500 | 21.5ms
+batch | total=43 | returned=43 | 15.3ms
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down
+MLflow init failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+🚀 RetainIQ v0.1.0 started
+👋 RetainIQ shutting down

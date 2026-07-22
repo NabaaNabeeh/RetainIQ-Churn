@@ -5,3 +5,6 @@ fastapi
 uvicorn
 pydantic
 joblib
+mlflow
+streamlit
+requests
