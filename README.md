@@ -37,3 +37,4 @@ python -m streamlit run ui.py
 ```bash
 python monitor.py
 ```
+(Can also be run directly from inside the UI — see the Monitoring tab in the Admin Dashboard.)
